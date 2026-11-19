@@ -1,0 +1,21 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.innovedge.datafix'
+    compileSdk 34
+    defaultConfig {
+        applicationId "com.innovedge.datafix"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+        // >>> SET THIS to your deployed Vercel URL (https://your-app.vercel.app).
+        // For the emulator + local dev server (npm run dev) use: http://10.0.2.2:5173
+        buildConfigField "String", "APP_URL", "\"https://YOUR-APP.vercel.app\""
+    }
+    buildFeatures { buildConfig true }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

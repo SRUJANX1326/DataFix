@@ -1,0 +1,419 @@
+customer_id,full_name,email,phone,age,gender,city,state,signup_date,last_purchase,income,orders,is_active
+C0001,Vivaan Nair,vivaan.nair1@outlook.com,+917880406310,35,Male,Chennai,Tamil Nadu,2022-02-02,2022-04-04,90594,8,No
+C0002,Diya Reddy,diya.reddy2@gmail.com,+917611486464,24,Male,Pune,Maharashtra,2020-08-27,2021-02-05,85718,10,No
+C0003,Isha Singh,isha.singh3@outlook.com,+917903555475,58,Female,Pune,Maharashtra,2020-05-15,2020-10-27,126009,11,Yes
+C0004,Rohan Reddy,rohan.reddy4@yahoo.com,+917093413716,59,Female,Hyderabad,Telangana,2020-12-21,2022-01-12,134613,12,No
+C0005,Ananya Mehta,ananya.mehta5@outlook.com,+918797797282,33,Male,Bengaluru,Karnataka,2019-11-20,2020-12-15,N/A,10,No
+C0006,Kabir Das,kabir.das6@gmail.com,+919855175202,48,Female,Chennai,Tamil Nadu,2023-11-02,2024-03-31,95834,9,Yes
+C0007,Meera Nair,meera.nair7@yahoo.com,+919654661517,49,Male,Delhi,Delhi,2023-09-27,2024-09-20,113188,12,No
+C0008,Arjun Sharma,arjun.sharma8@outlook.com,+918427125034,66,Male,Kolkata,West Bengal,2023-10-25,2024-09-06,138577,12,Yes
+C0009,Sana Mehta,sana.mehta9@outlook.com,+917673801914,66,Male,Bengaluru,Karnataka,2019-12-18,2020-01-26,148795,15,No
+C0010,Neha Patel,neha.patel10@yahoo.com,+917610172376,50,MALE,Kolkata,West Bengal,2019-03-31,2019-11-07,110167,10,Yes
+C0011,Rahul Singh,rahul.singh11@yahoo.com,+919247253923,38,Male,Mumbai,Maharashtra,2020-12-29,2021-05-24,112005,10,Yes
+C0012,Priya Iyer,priya.iyer12@gmail.com,+917500762256,21,Male,Mumbai,Maharashtra,2023-10-16,2023-12-10,-,9,No
+C0013,Karan Sharma,karan.sharma13@yahoo.com,+918742632465,33,Female,Mumbai,Maharashtra,2021-12-13,2022-08-01,96606,12,No
+C0014,Tara Nair,tara.nair14@gmail.com,+917505747205,53,Male,Hyderabad,Telangana,2019-09-02,2020-01-14,116455,10,Yes
+C0015,Aarav Nair,aarav.nair15@gmail.com,+917654863515,27,Female,Pune,Kerala,2020-04-26,2021-01-22,80637,10,No
+C0016,Vivaan Das,vivaan.das16@outlook.com,+918472056838,27,Male,Delhi,Delhi,2020-12-20,2022-01-21,77910,9,No
+C0017,Diya Das,diya.das17@gmail.com,+917038476406,29,Male,Kolkata,West Bengal,2019-09-30,2019-11-08,72536,6,No
+C0018,Isha Nair,isha.nair18@yahoo.com,+918475513808,22,Female,Chennai,Tamil Nadu,2019-04-21,2019-09-19,62799,7,No
+C0019,Rohan Reddy,rohan.reddy19@gmail.com,+919219586701,41,Female,Mumbai,Maharashtra,2022-09-25,2023-08-10,110462,10,No
+C0020,Ananya Khan,ananya.khan20@yahoo.com,+919136622923,45,Female,Mumbai,Maharashtra,2023-12-04,2024-06-23,108098,11,Yes
+C0021,Kabir Das,kabir.das21@outlook.com,+918743358628,64,Female,Mumbai,Maharashtra,2023-12-30,2024-08-05,,14,No
+C0022,Meera Singh,meera.singh22@yahoo.com,+919526553076,32,Male,Delhi,Delhi,2022-06-19,2022-08-11,88400,8,No
+C0023,Arjun Mehta,arjun.mehta23@outlook.com,+918618525914,59,Female,Pune,Maharashtra,2021-07-31,2021-08-13,121143,12,No
+C0024,Sana Reddy,sana.reddy24@outlook.com,+919830181492,40,Male,KOLKATA,West Bengal,2023-09-04,2024-08-26,107375,10,No
+C0025,Neha Iyer,neha.iyer25@yahoo.com,+918150517761,24,Female,Bengaluru,Karnataka,2019-08-07,2020-03-15,74876,7,Yes
+C0026,Rahul Gupta,rahul.gupta26@gmail.com,+918123041492,45,Male,Kolkata,West Bengal,2023-02-02,2023-07-06,114035,11,Yes
+C0027,Priya Khan,priya.khan27@gmail.com,+919881574117,37,Female,Mumbai,Maharashtra,2019-06-10,2020-01-12,91369,11,Yes
+C0028,Karan Khan,karan.khan28@yahoo.com,+917247241552,52,Female,Pune,Maharashtra,2019-07-17,2020-01-13,129951,14,No
+C0029,Tara Das,tara.das29@outlook.com,+919759537607,62,Male,Hyderabad,Telangana,2019-10-19,2020-01-09,120539,12,No
+C0030,Aarav Nair,aarav.nair30gmail.com,+918623481630,21,Male,Kolkata,West Bengal,2020-12-08,2021-05-18,67735,8,Yes
+C0031,Vivaan Nair,vivaan.nair31@yahoo,+918881962536,62,Male,Kolkata,West Bengal,2021-02-09,2021-04-23,149876,13,Yes
+C0032,Diya Das,diya.das32@gmail.com,+917444254639,58,Female,Hyderabad,Telangana,2020-08-19,2021-09-21,121415,12,No
+C0033,Isha Das,isha.das33@yahoo.com,+9192952,55,Male,Delhi,Delhi,2019-04-07,2019-09-14,117362,12,Yes
+C0034,Rohan Mehta,not-an-email,+919583242163,33,Male,Delhi,Delhi,2019-03-20,2019-04-21,75748,10,No
+C0035,Ananya Sharma,ananya.sharma35@gmail.com,+919996889861,39,Male,Mumbai,Maharashtra,2019-11-08,2020-08-27,107683,9,Yes
+C0036,Kabir Das,kabir.das36@yahoo.com,+919678795500,68,Female,Chennai,Tamil Nadu,2021-04-22,2022-03-29,145385,14,Yes
+C0037,Meera Khan,meera.khan37@outlook.com,+918141520636,65,Male,Delhi,Delhi,2021-08-09,2022-08-01,126554,11,Yes
+C0038,Arjun Sharma,arjun.sharma38@gmail.com,+918135119132,56,Female,Pune,Maharashtra,2023-06-02,2024-04-30,137189,14,No
+C0039,Sana Reddy,sana.reddy39@outlook.com,+917912323331,67,Male,Kolkata,West Bengal,2020-02-05,2020-07-08,144935,12,No
+C0040,<b>Neha Mehta</b>,neha.mehta40@yahoo.com,+918273750860,34,Male,Pune,Maharashtra,2019-12-07,2020-06-23,87625,11,No
+C0041,Rahul Nair,rahul.nair41@outlook.com,+918593813864,37,Male,Pune,Maharashtra,16 Feb 2022,2022-12-04,105950,11,Yes
+C0042,Priya Sharma,priya.sharma42@gmail.com,+919670364261,68,Female,Mumbai,Maharashtra,2021-02-11,2021-05-01,142189,13,Yes
+C0043,Karan Mehta,karan.mehta43@yahoo.com,+919090121666,52,Male,Bengaluru,Karnataka,2022-10-03,2023-07-25,119289,13,Yes
+C0044,Tara Das,tara.das44@gmail.com,+918751656865,68,M,Hyderabad,Telangana,2021-03-02,2021-12-20,150069,15,No
+C0045,Aarav Reddy,aarav.reddy45@outlook.com,+918773515283,54,Female,Mumbai,Maharashtra,2021-01-08,2021-05-15,107849,11,No
+C0046,Vivaan Singh,vivaan.singh46@gmail.com,+917846668500,33,Male,Delhi,Delhi,2021-07-17,2022-07-30,92279,10,No
+C0047,Diya Mehta,diya.mehta47@gmail.com,+917948994116,68,Male,Hyderabad,Telangana,2019-11-04,2020-11-17,150209,16,No
+C0048,Isha Singh,isha.singh48@outlook.com,+919861796626,45,Male,Delhi,Delhi,2019-10-14,2019-11-18,104986,13,No
+C0049,Rohan Reddy,rohan.reddy49@gmail.com,+918243474254,26,Male,Hyderabad,Telangana,2023-10-03,2024-01-02,68132,7,Yes
+C0050,Ananya Das,ananya.das50@outlook.com,+919986750864,21,Male,Hyderabad,Telangana,2023-10-02,2024-06-28,73409,7,No
+C0051,KABIR KHAN,kabir.khan51@gmail.com,+917861077206,28,Female,Delhi,Delhi,2021-02-07,2021-05-14,88206,8,No
+C0052,Meera Das,meera.das52@gmail.com,+917391220972,33,Female,Pune,Maharashtra,2020-02-07,2020-07-03,86798,8,Yes
+C0053,Arjun Khan,arjun.khan53@outlook.com,+918969653720,22,Male,Kolkata,West Bengal,2021-05-16,2022-03-15,78043,9,Yes
+C0054,Sana Sharma,sana.sharma54@outlook.com,+918586497160,37,Male,Chennai,Tamil Nadu,2022-03-29,2023-04-24,99566,12,No
+C0055,Neha Singh,neha.singh55@yahoo.com,+919639824449,50,Male,Bengaluru,Karnataka,2022-01-08,2023-02-03,98204,11,No
+C0056,Rahul Singh,rahul.singh56@gmail.com,+919855629835,32,Female,Bengaluru,Karnataka,2020-09-24,2021-01-22,101243,9,No
+C0057,Priya Patel,priya.patel57@outlook.com,+917513350191,39,Female,Hyderabad,Telangana,2020-06-14,2021-06-22,87655,8,Yes
+C0058,Karan Sharma,karan.sharma58@yahoo.com,+917417191650,29,Male,Bengaluru,Karnataka,2021-07-13,2021-08-03,77435,9,Yes
+C0059,Tara Khan,tara.khan59@gmail.com,+918118775046,59,Female,Pune,Maharashtra,2022-07-28,2022-07-31,130598,12,No
+C0060,AARAV MEHTA,aarav.mehta60@yahoo.com,+917803383885,68,Female,Kolkata,West Bengal,2020-03-07,2020-07-29,152044,14,Yes
+C0061,Vivaan Singh,vivaan.singh61@outlook.com,+917088175188,28,Male,Delhi,Delhi,2021-08-18,2022-07-09,"$ 98,561",12,Yes
+C0062,Diya Patel,diya.patel62@yahoo.com,+918587781595,67,Female,Mumbai,Maharashtra,2021-05-13,2021-08-29,140943,15,No
+C0063,Isha Reddy,isha.reddy63@yahoo.com,+919157344696,57,Female,Kolkata,West Bengal,2019-04-20,2019-06-13,113185,11,No
+C0064,Rohan Iyer,rohan.iyer64@gmail.com,+919344402279,46,Female,Chennai,Tamil Nadu,2019-02-19,2019-11-20,115105,12,No
+C0065,Ananya Das,ananya.das65@gmail.com,+919161169035,45,Female,Hyderabad,Telangana,2022-06-12,2023-02-09,104638,11,Yes
+C0066,Kabir Mehta,kabir.mehta66@outlook.com,+918472965786,67,M,Pune,Maharashtra,2021-03-08,2021-06-18,132662,13,Yes
+C0067,Meera Singh,meera.singh67@gmail.com,+919339926635,40,Male,Chennai,Tamil Nadu,2020-12-17,2021-07-06,88061,8,Yes
+C0068,Arjun Das,arjun.das68@gmail.com,+917653592679,52,Female,Chennai,Tamil Nadu,2019-05-22,2020-02-21,125923,12,Yes
+C0069,Sana Khan,sana.khan69@gmail.com,+918328267395,39,Female,Chennai,Tamil Nadu,2019-01-07,2019-08-23,92617,10,Yes
+C0070,Neha Gupta,neha.gupta70@outlook.com,+917722536990,40,Male,Delhi,Delhi,2023-05-27,2024-04-08,106489,12,No
+C0071,Rahul Khan,rahul.khan71@yahoo.com,+918672160246,31,Female,Pune,Maharashtra,2020-05-29,2021-06-14,94666,11,No
+C0072,Priya Gupta,priya.gupta72@gmail.com,+917095827875,56,Female,Bengaluru,Karnataka,2020-12-29,2021-07-08,119652,13,No
+C0073,Karan Das,karan.das73@outlook.com,+918525738818,44,Male,Chennai,Tamil Nadu,2020-10-19,2021-10-23,4035722,10,Yes
+C0074,Tara Nair,tara.nair74@outlook.com,+918638913358,65,Male,Mumbay,Maharashtra,2022-10-17,2023-02-14,143698,13,No
+C0075,Aarav Mehta,aarav.mehta75@yahoo.com,+919732928821,31,Male,Kolkata,West Bengal,2021-08-01,2022-05-25,105468,10,No
+C0076,Vivaan Patel,vivaan.patel76@outlook.com,+917650720334,24,Male,Hyderabad,Telangana,2019-07-27,2020-03-11,79118,8,No
+C0077,Diya Patel,diya.patel77@gmail.com,+918183150480,67,Male,Hyderabad,Telangana,2022-12-07,2023-12-15,145755,14,Yes
+C0078,Isha Iyer,isha.iyer78@outlook.com,+919087822293,32,Female,Mumbai,Maharashtra,2021-12-30,2022-11-11,89755,10,Yes
+C0079,Rohan Gupta,rohan.gupta79@gmail.com,+918565594418,40,Female,Kolkata,West Bengal,2021-09-13,2022-09-08,85273,7,Yes
+C0080,Ananya Patel,ananya.patel80@outlook.com,+918938917167,67,Male,Bengaluru,Karnataka,2019-12-05,2020-12-14,140325,13,Yes
+C0081,Kabir Reddy,kabir.reddy81@yahoo.com,+918894651209,60,Male,Kolkata,West Bengal,2020-08-26,2021-08-22,137429,14,Yes
+C0082,Meera Singh,meera.singh82@outlook.com,+917556238832,62,Male,Bengaluru,Karnataka,2019-12-18,2020-06-27,139373,12,Yes
+C0083,Arjun Singh,arjun.singh83@gmail.com,+919057828512,62,Female,Hyderabad,Telangana,2021-06-12,2021-10-30,136979,15,No
+C0084,Sana Iyer,sana.iyer84@outlook.com,+919672957590,,Male,Pune,Maharashtra,2019-02-22,2019-09-10,94801,9,Yes
+C0085,Neha Nair,neha.nair85@gmail.com,+917492218249,56,Female,Kolkata,West Bengal,2019-04-08,2020-01-02,128513,12,Yes
+C0086,Rahul Das,rahul.das86@outlook.com,+919400182128,55,Female,Delhi,Delhi,2021-10-19,2022-06-03,117365,11,Yes
+C0087,Priya Iyer,priya.iyer87@outlook.com,+917290101064,22,Male,Mumbai,Gujarat,2022-05-04,2023-03-29,75694,7,No
+C0088,Karan Iyer,karan.iyer88@gmail.com,+917870948961,65,Male,Kolkata,West Bengal,08 Apr 2022,2022-04-22,126130,12,Yes
+C0089,Tara Sharma,tara.sharma89@outlook.com,+919170287562,22,Male,Chennai,Tamil Nadu,2023-03-09,2023-09-11,73225,7,Yes
+C0090,Aarav Patel,aarav.patel90@gmail.com,+918687939354,42,Male,Pune,Maharashtra,2021-12-26,2022-07-09,TBD,9,Yes
+C0091,Vivaan Mehta,vivaan.mehta91@outlook.com,+919305142492,56,Male,Kolkata,West Bengal,2021-03-27,2022-02-24,abc,13,Yes
+C0092,Diya Patel,diya.patel92@yahoo.com,+917242553283,420,Female,Mumbai,Maharashtra,2021-09-07,2022-01-01,135014,13,No
+C0093,Isha Sharma,isha.sharma93@yahoo.com,+919895592028,21,Male,Kolkata,West Bengal,2019-07-10,2019-09-19,83219,7,No
+C0094,Rohan Nair,rohan.nair94@yahoo.com,+919804845609,N/A,Female,Bengaluru,Karnataka,2023-09-17,2024-09-22,112814,11,No
+C0095,Ananya Mehta,ananya.mehta95@gmail.com,+917134636454,31,male,Pune,Maharashtra,2023-09-11,2023-12-15,88058,10,No
+C0096,Kabir Gupta,kabir.gupta96@gmail.com,+9197209,19,Female,Hyderabad,Telangana,2020-03-06,2020-05-09,71400,9,Yes
+C0097,Meera Iyer,meera.iyer97@gmail.com,+918316535687,55,Female,Chennai,Tamil Nadu,2021-10-23,2022-01-21,128432,13,No
+C0098,Arjun Sharma,arjun.sharma98@gmail.com,+917893502202,57,Male,Chennai,Tamil Nadu,2022-08-19,2022-10-05,122172,14,No
+C0099,Sana Iyer,sana.iyer99@yahoo.com,+917626463415,56,Male,Kolkata,West Bengal,2020-05-12,2021-03-28,129752,12,No
+C0100,Neha Nair,neha.nair100@yahoo.com,+917862303513,63,Female,Bengaluru,Karnataka,2019-06-28,2019-09-17,130387,12,No
+C0101,Rahul Singh,rahul.singh101@gmail.com,+918294454812,58,Female,Chennai,Tamil Nadu,2019-12-28,2020-09-06,119706,13,No
+C0102,Priya Singh,priya.singh102@outlook.com,+919723076894,null,Male,Hyderabad,Telangana,2020-08-03,2021-04-11,80599,9,Yes
+C0103,Karan Mehta,karan.mehta103@yahoo.com,+918745345410,26,Male,Delhi,Delhi,2020-06-12,2021-03-27,71926,7,No
+C0104,Tara Iyer,tara.iyer104@gmail.com,+918838061627,54,Female,Bengaluru,Karnataka,2019-06-11,2020-04-19,131848,14,No
+C0105,Aarav Singh,aarav.singh105@outlook.com,+917965598905,46,Female,Bengaluru,Karnataka,05 May 2022,2022-08-24,117556,11,No
+C0106,Vivaan Reddy,vivaan.reddy106@yahoo.com,+919869469451,21,Female,Chennai,Tamil Nadu,11/05/2022,2023-02-24,52000,8,Yes
+C0107,Diya Patel,diya.patel107@outlook.com,+918236014996,20,Male,Delhi,Delhi,2022-01-08,2022-03-16,72201,7,No
+C0108,Isha Gupta,isha.gupta108@outlook.com,+918424093964,62,Male,Delhi,Delhi,2019-12-26,2020-06-05,147531,15,No
+C0109,Rohan Mehta,rohan.mehta109@yahoo.com,+918331620751,26,Male,Pune,Maharashtra,2021-04-16,2021-07-07,69754,6,No
+C0110,Ananya Nair,ananya.nair110@outlook.com,+918602544748,19,Female,Mumbai,Maharashtra,2019-12-18,2020-02-26,70097,9,No
+C0111,Kabir Iyer,kabir.iyer111@outlook.com,+917157861406,38,Female,Chennai,Tamil Nadu,2022-06-08,2023-01-09,92735,9,No
+C0112,Meera Das,meera.das112@gmail.com,+918100321729,69,Male,Chennai,Tamil Nadu,2022-01-06,2022-01-25,146609,13,Yes
+C0113,Arjun Singh,arjun.singh113@outlook.com,+917784999095,26,-,Kolkata,West Bengal,2019-09-05,2020-04-30,69326,8,Yes
+C0114,Sana Patel,sana.patel114@yahoo.com,+918509388782,25,Female,Delhi,Delhi,2020-05-12,2021-05-20,74304,8,Yes
+C0115,Neha Iyer,neha.iyer115@yahoo.com,+919692418860,20,Male,Kolkata,West Bengal,2019-11-02,2019-12-31,57715,7,No
+C0116,Rahul Nair,rahul.nair116@yahoo.com,+918947478527,60,Female,Hyderabad,Telangana,2023-11-14,2024-07-12,123700,13,Yes
+C0117,Priya Mehta,priya.mehta117@yahoo.com,+917730707110,51,Male,N/A,Delhi,2021-03-02,2022-03-09,114818,11,Yes
+C0118,Karan Sharma,karan.sharma118@gmail.com,+918434578797,33,Female,Bengaluru,Karnataka,2022-02-03,2022-05-21,93487,11,No
+C0119,Tara Patel,tara.patel119@yahoo.com,+919955013982,64,Male,Kolkata,West Bengal,2019-07-03,2020-02-09,118678,10,No
+C0120,Aarav Nair,aarav.nair120@outlook.com,+918205413866,53,Male,Hyderabad,Telangana,2019-05-27,2019-11-05,109342,12,No
+C0121,Vivaan Das,vivaan.das121@gmail.com,+917415339276,65,Female,Mumbai,Maharashtra,2020-03-12,2021-01-02,142782,14,Yes
+C0122,Diya Iyer,diya.iyer122@yahoo.com,+918402261750,25,Female,Bengaluru,Karnataka,2023-04-09,2023-09-06,69394,8,No
+C0123,Isha Mehta,isha.mehta123@yahoo.com,+918757260177,53,Female,Kolkata,West Bengal,2023-07-03,2024-01-05,115945,13,No
+C0124,Rohan Nair,rohan.nair124@gmail.com,+918545205592,23,Male,Chennai,Tamil Nadu,2022-12-28,2023-02-17,56079,5,No
+C0125,Ananya Iyer,ananya.iyer125@yahoo.com,+917452728185,30,Male,Kolkata,West Bengal,2023-05-24,2023-07-29,80897,10,No
+C0126,Kabir Mehta,kabir.mehta126@gmail.com,+917169333071,60,Male,Mumbai,Maharashtra,2023-12-27,2024-02-17,136332,15,No
+C0127,Meera Gupta,meera.gupta127@yahoo.com,+917718707094,28,Male,Bengaluru,Karnataka,2022-03-10,2022-08-20,70878,6,Yes
+C0128,Arjun Iyer,arjun.iyer128@gmail.com,+919817875897,44,Female,Hyderabad,Telangana,2019-09-21,2020-03-08,104413,11,No
+C0129,Sana Nair,sana.nair129@outlook.com,+918577159392,65,Female,Mumbai,Maharashtra,2021-03-07,2022-03-13,141774,16,Yes
+C0130,Neha Das,neha.das130@yahoo.com,+917333501213,68,Male,Delhi,Delhi,2023-12-26,2024-08-18,143457,13,No
+C0131,Rahul Das,rahul.das131@gmail.com,+917529565731,57,Male,Delhi,Delhi,2019-08-30,2019-10-27,122396,11,No
+C0132,Priya Nair,priya.nair132@outlook.com,+919134221082,19,Female,Bengaluru,Karnataka,2022-03-28,2022-07-22,67659,8,No
+C0133,Karan Reddy,karan.reddy133@outlook.com,+917142010805,33,Female,Pune,Maharashtra,2020-05-11,2020-11-08,101611,11,No
+C0134,Tara Patel,tara.patel134@outlook.com,+918166692076,47,Female,Delhi,Delhi,2019-01-26,2019-11-30,108802,13,No
+C0135,Aarav Singh,aarav.singh135@gmail.com,+919125786085,37,Female,Hyderabad,Telangana,2021-01-24,2022-02-05,83043,10,No
+C0136,Vivaan Patel,vivaan.patel136@yahoo.com,+919465086583,30,Male,Hyderabad,Telangana,2022-10-30,2023-11-27,100337,10,No
+C0137,Diya Sharma,diya.sharma137@outlook.com,+917578841901,33,Female,Pune,Maharashtra,2023-06-29,2024-05-04,94734,11,No
+C0138,Isha Patel,isha.patel138@gmail.com,+919308341375,24,Female,Chennai,Tamil Nadu,2020-01-28,2021-02-15,74228,7,No
+C0139,Rohan Nair,rohan.nair139@gmail.com,+919506658176,58,Female,Pune,Maharashtra,2023-07-26,2023-08-11,135353,11,Yes
+C0140,Ananya Iyer,ananya.iyer140@outlook.com,+917954078448,61,Male,Delhi,Delhi,2022-03-12,2022-11-27,115525,11,No
+C0141,Kabir Iyer,kabir.iyer141@outlook.com,+918809658705,66,Male,Pune,Maharashtra,2021-03-02,2022-02-13,135990,12,No
+C0142,Meera Das,meera.das142@outlook.com,+917759835287,49,Female,Kolkata,West Bengal,2020-09-10,2021-08-31,100685,9,No
+C0143,Arjun Patel,arjun.patel143@outlook.com,+919348824717,58,Male,Pune,Maharashtra,2021-12-29,2022-10-24,123678,13,No
+C0144,Sana Iyer,sana.iyer144@gmail.com,+917736648423,50,Female,Mumbay,Maharashtra,2022-07-05,2022-07-29,119461,13,No
+C0145,Neha Das,neha.das145@gmail.com,+9183217,38,Male,Delhi,Delhi,2022-06-04,2022-07-06,108797,10,No
+C0146,Rahul Gupta,rahul.gupta146@gmail.com,+918155029898,36,F,Hyderabad,Telangana,2023-01-06,2023-02-27,99058,9,No
+C0147,Priya Nair,priya.nair147@gmail.com,+919840295699,47,Female,Mumbai,Maharashtra,2022-01-18,2022-06-05,124599,14,Yes
+C0148,Karan Sharma,karan.sharma148@outlook.com,+918938783646,36,Female,Kolkata,West Bengal,2020-05-29,2021-03-28,92169,10,Yes
+C0149,Tara Singh,tara.singh149@outlook.com,+919745681480,47,Female,Bengaluru,Karnataka,2019-03-29,2019-10-13,111255,11,No
+C0150,Aarav Reddy,aarav.reddy150@yahoo.com,+917949899222,70,Female,Hyderabad,Telangana,2020-08-20,2021-08-17,150516,14,Yes
+C0151,Vivaan Sharma,vivaan.sharma151@yahoo.com,+918184733284,34,Female,Pune,Maharashtra,2023-01-30,2024-01-28,78566,8,Yes
+C0152,Diya Das,diya.das152@outlook.com,+917736694078,47,Female,Mumbai,Maharashtra,2021-01-23,2022-02-21,119864,14,Yes
+C0153,Isha Iyer,isha.iyer153@gmail.com,+919652748544,55,Female,Mumbai,Maharashtra,2019-06-24,2019-11-13,125843,12,Yes
+C0154,Rohan Das,rohan.das154@gmail.com,+919860312677,27,Male,Chennai,Tamil Nadu,2023-06-28,2023-11-11,87724,10,Yes
+C0155,Ananya Singh,ananya.singh155@yahoo.com,+917801823774,54,Female,Delhi,Delhi,2019-09-21,2020-09-19,122479,13,Yes
+C0156,Kabir Iyer,kabir.iyer156@yahoo.com,+919572147598,25,Female,Hyderabad,Telangana,2019-01-09,2019-07-11,63620,6,No
+C0157,Meera Patel,meera.patel157@gmail.com,+919835509492,20,Male,Hyderabad,Telangana,2022-06-02,2023-06-26,84351,10,No
+C0158,Arjun Mehta,arjun.mehta158@outlook.com,+917732402001,38,Female,Pune,Maharashtra,2019-06-21,2019-11-25,94416,11,No
+C0159,Sana Nair,sana.nair159@yahoo.com,+918239087508,50,Male,Pune,Gujarat,2021-02-23,2021-11-26,126820,11,No
+C0160,Neha Singh,neha.singh160@outlook.com,+918349558058,44,Male,Chennai,Tamil Nadu,2022-02-22,2023-01-19,95148,9,No
+C0161,Rahul Mehta,rahul.mehta161@outlook.com,+917429854159,64,Male,Bengaluru,Karnataka,2019-07-28,2020-02-17,134096,15,No
+C0162,Priya Iyer,priya.iyer162@outlook.com,+918213892770,57,MALE,Hyderabad,Telangana,2020-11-12,2021-05-09,117994,12,Yes
+C0163,Karan Nair,karan.nair163@outlook.com,+918421448467,21,Female,Delhi,Delhi,2021-05-01,2022-04-13,78448,9,Yes
+C0164,Tara Sharma,tara.sharma164@outlook.com,+917437783257,20,Male,Pune,Maharashtra,2022-01-09,2022-01-15,78585,7,Yes
+C0165,Aarav Nair,aarav.nair165@yahoo.com,+918324856018,28,Male,Hyderabad,Telangana,2020-11-27,2021-12-24,77426,8,Yes
+C0166,Vivaan Das,vivaan.das166@yahoo.com,+918559923065,52,Female,Chennai,Tamil Nadu,13 Dec 2019,2020-10-08,125834,11,Yes
+C0167,Diya Khan,diya.khan167@gmail.com,+918562678422,47,Female,Delhi,Delhi,2021-05-31,2021-12-09,118869,,No
+C0168,Isha Iyer,isha.iyer168@gmail.com,+918345992842,41,Male,Delhi,Delhi,2020-02-07,2020-06-18,99605,9,Yes
+C0169,Rohan Patel,rohan.patel169@gmail.com,+919311933422,59,Male,Mumbai,Maharashtra,2022-03-25,2021-12-15,114665,13,No
+C0170,Ananya Khan,ananya.khan170@yahoo.com,+917445536310,34,Male,Hyderabad,Telangana,2020-10-22,2021-04-23,4045756,8,No
+C0171,Kabir Singh,kabir.singh171@yahoo.com,+917226448907,26,,Hyderabad,Telangana,2019-04-25,2019-10-01,85277,9,Yes
+C0172,Meera Das,meera.das172@gmail.com,+918412603562,33,Female,Hyderabad,Telangana,2020-04-17,2020-08-26,80987,10,Yes
+C0173,Arjun Sharma,arjun.sharma173@gmail.com,+919711164955,24,Female,Delhi,Delhi,2021-12-26,2022-12-02,59458,6,Yes
+C0174,Sana Das,sana.das174@gmail.com,+918855846258,49,Male,Mumbai,Maharashtra,2023-09-21,2024-01-29,125761,13,No
+C0175,Neha Sharma,neha.sharma175@yahoo.com,+919553564360,49,Female,Chennai,Tamil Nadu,2023-05-27,2023-07-13,123932,14,No
+C0176,Rahul Reddy,rahul.reddy176@yahoo.com,+919719211465,420,Female,Bengaluru,Karnataka,2022-02-04,2023-03-05,129954,11,No
+C0177,Priya Sharma,priya.sharma177@outlook.com,+919668770290,43,Male,Kolkata,West Bengal,2022-09-14,2023-07-26,123478,12,Yes
+C0178,Karan Das,karan.das178@yahoo.com,+918236885897,61,Female,Delhi,Delhi,2022-10-16,2022-12-05,127327,11,No
+C0179,Tara Gupta,tara.gupta179@gmail.com,+918434229817,53,Female,Bengaluru,Karnataka,2021-09-11,2022-05-02,124726,11,Yes
+C0180,Aarav Nair,aarav.nair180@yahoo.com,+917156420059,58,Male,Bengaluru,Gujarat,2022-02-05,2022-03-03,113254,10,No
+C0181,Vivaan Nair,vivaan.nair181@gmail.com,+917555361106,63,Male,delhi,Delhi,2020-08-10,2021-01-30,134793,13,Yes
+C0182,Diya Patel,diya.patel182@yahoo.com,+918262231400,32,Male,Pune,Maharashtra,2019-10-06,2020-05-01,104746,12,No
+C0183,Isha Reddy,isha.reddy183@yahoo.com,+917203656448,49,Male,Hyderabad,Telangana,2021-12-06,2022-11-07,104279,9,No
+C0184,Rohan Das,rohan.das184@yahoo.com,+919382793134,57,Female,Delhi,Delhi,2020-04-04,2020-10-17,132394,13,Yes
+C0185,Ananya Khan,ananya.khan185@outlook.com,+917364202009,26,Female,Hyderabad,Telangana,2019-05-08,2019-06-05,64981,8,Yes
+C0186,Kabir Singh,kabir.singh186@gmail.com,+918423448941,41,Female,Bengaluru,Karnataka,2019-09-18,2019-11-09,90465,9,Yes
+C0187,Meera Khan,meera.khan187@yahoo.com,+917258302873,39,Female,Chennai,Tamil Nadu,2023-12-05,2023-12-05,98195,11,No
+C0188,Arjun Das,arjun.das188@gmail.com,+918190140897,48,Male,Mumbai,Maharashtra,2022-07-17,2023-07-21,101208,11,No
+C0189,Sana Iyer,sana.iyer189@yahoo.com,+919083909586,51,Female,Pune,Maharashtra,2019-02-14,2019-05-12,116044,12,Yes
+C0190,Neha Mehta,neha.mehta190@outlook.com,+919800059068,28,Male,Bengaluru,Karnataka,2022-02-26,2022-08-08,76017,8,No
+C0191,Rahul Gupta,rahul.gupta191@yahoo.com,+919031985158,24,Male,Kolkata,West Bengal,2020-12-10,2021-11-24,77090,10,Yes
+C0192,Priya Mehta,priya.mehta192@gmail.com,+917632564707,45,Female,Kolkata,West Bengal,2019-07-30,2019-08-14,109073,11,No
+C0193,Karan Das,karan.das193@gmail.com,+918960009671,33,Male,Delhi,Delhi,2022-07-09,2022-10-30,100451,9,No
+C0194,Tara Iyer,tara.iyer194@outlook.com,+919952649830,49,Male,Kolkata,West Bengal,2023-10-09,2024-02-07,96587,11,Yes
+C0195,Aarav Gupta,aarav.gupta195@outlook.com,+917440158233,48,Female,Delhi,Delhi,2022-03-29,2022-08-23,95529,10,Yes
+C0196,Vivaan Nair,vivaan.nair196@gmail.com,+919358977257,52,Female,Pune,Maharashtra,2023-03-24,2023-11-01,116350,10,No
+C0197,Diya Khan,diya.khan197@gmail.com,+919205779531,69,Female,Delhi,Delhi,2020-08-13,2021-08-17,137601,15,No
+C0198,Isha Mehta,isha.mehta198@yahoo.com,+919702178650,58,Male,Delhi,Delhi,2023-12-27,2024-03-03,131540,13,Yes
+C0199,Rohan Singh,rohan.singh199@yahoo.com,+917156707454,43,Male,Hyderabad,Telangana,2020-04-01,2020-07-31,101320,9,No
+C0200,Ananya Patel,ananya.patel200@yahoo.com,+917130631430,61,Male,Mumbai,Maharashtra,2019-12-16,2020-02-23,145889,13,Yes
+C0201,Kabir Khan,kabir.khan201@outlook.com,+919519443367,66,Male,Chennai,Tamil Nadu,2020-09-29,2021-08-09,126732,13,Yes
+C0202,Meera Das,meera.das202@outlook.com,+919464800615,37,Female,Pune,Maharashtra,2022-03-28,2022-05-16,87590,9,Yes
+C0203,Arjun Singh,arjun.singh203@outlook.com,+918248766077,49,Male,Kolkata,West Bengal,2021-12-27,2022-04-28,114381,10,No
+C0204,Sana Patel,sana.patel204@yahoo.com,+917087564977,70,Female,Bengaluru,Karnataka,2020-09-05,2021-08-07,145936,13,Yes
+C0205,Neha Das,neha.das205@gmail.com,+919360444260,42,,Chennai,Tamil Nadu,2019-11-11,2020-07-18,87899,10,No
+C0206,Rahul Patel,rahul.patel206@outlook.com,+917320550778,33,Male,Delhi,Delhi,2023-03-19,2024-03-06,86702,10,No
+C0207,Priya Iyer,priya.iyer207@gmail.com,+919656284980,27,Male,Hyderabad,Telangana,2022-08-01,2023-06-26,,9,No
+C0208,Karan Sharma,karan.sharma208@outlook.com,+919861507935,57,Male,Pune,Maharashtra,2019-01-09,2019-02-12,139276,12,No
+C0209,Tara Patel,tara.patel209@gmail.com,+918225870062,37,Male,Chennai,Tamil Nadu,2020-08-30,2021-01-26,85775,9,No
+C0210,Aarav Reddy,aarav.reddy210@outlook.com,+917450148580,40,Male,Hyderabad,Telangana,2020-09-03,2020-10-26,98193,12,No
+C0211,Vivaan Das,vivaan.das211@yahoo.com,+918356510477,36,Male,Chennai,Tamil Nadu,2020-01-16,2020-08-31,76864,9,No
+C0212,Diya Reddy,diya.reddy212@outlook.com,+919924771425,33,Female,Bengaluru,Karnataka,2022-02-16,2022-04-27,93482,11,No
+C0213,Isha Patel,isha.patel213@gmail.com,+918148304691,26,Male,Hyderabad,Telangana,2022-03-28,2022-11-23,"$ 83,351",8,Yes
+C0214,Rohan Das,rohan.das214@gmail.com,+919495514519,67,N/A,Bengaluru,Karnataka,2021-04-29,2021-07-05,140571,13,No
+C0215,Ananya Sharma,ananya.sharma215@yahoo.com,+917543656707,51,Female,Mumbai,Maharashtra,2023-06-04,2024-05-19,121533,11,No
+C0216,Kabir Singh,kabir.singh216@gmail.com,+917938486431,,Male,Chennai,Tamil Nadu,2023-04-15,2023-05-14,115672,11,Yes
+C0217,Meera Mehta,meera.mehta217@outlook.com,+919274136904,63,Male,Chennai,Tamil Nadu,2022-07-17,2022-08-27,5051046,10,Yes
+C0218,Arjun Patel,not-an-email,+917742970750,51,Male,Kolkata,West Bengal,2023-01-01,2023-03-09,107914,11,No
+C0219,Sana Sharma,sana.sharma219@yahoo.com,+917248496919,26,Female,Bengaluru,Karnataka,2023-08-31,2023-09-04,61216,6,Yes
+C0220,Neha Mehta,neha.mehta220@outlook.com,+918608894044,20,Female,Pune,Maharashtra,2023-09-23,2024-03-08,84856,11,No
+C0221,<b>Rahul Sharma</b>,rahul.sharma221@outlook.com,+919076522748,65,Female,Mumbai,Maharashtra,2021-11-08,2022-09-05,123184,14,No
+C0222,Priya Reddy,priya.reddy222@yahoo.com,+917736449908,38,Male,Hyderbad,Telangana,2020-04-20,2020-10-21,83602,9,Yes
+C0223,Karan Sharma,karan.sharma223gmail.com,+918990909166,39,Female,Bengaluru,Karnataka,2022-01-30,2023-01-04,97353,9,No
+C0224,Tara Reddy,tara.reddy224@outlook.com,+919548347518,45,Male,Hyderabad,Telangana,2020-01-21,2020-07-03,110941,10,Yes
+C0225,Aarav Nair,aarav.nair225@yahoo.com,+919491488156,28,Female,Chennai,Tamil Nadu,2020-06-19,2021-07-03,89783,10,No
+C0226,Vivaan Gupta,vivaan.gupta226@outlook.com,+918491531898,54,Male,Kolkata,West Bengal,2021-11-25,2022-03-29,115509,10,Yes
+C0227,Diya Iyer,diya.iyer227@yahoo.com,+917084700390,42,Female,Pune,Maharashtra,2022-10-15,2023-06-27,102253,10,No
+C0228,Isha Sharma,isha.sharma228@outlook.com,+919518111465,33,null,Hyderabad,Telangana,2021-12-04,2022-10-10,86390,11,No
+C0229,ROHAN GUPTA,rohan.gupta229@yahoo.com,+919334399840,38,Male,Kolkata,West Bengal,2023-04-28,2024-02-29,95451,11,No
+C0230,Ananya Iyer,ananya.iyer230@gmail.com,+917448205200,68,Female,Bengaluru,Karnataka,2023-02-18,2023-04-19,138929,N/A,No
+C0231,Kabir Khan,kabir.khan231@outlook.com,+917016853211,69,Female,Hyderabad,Telangana,2020-02-03,2020-05-05,151400,16,No
+C0232,Meera Patel,meera.patel232@gmail.com,+917648564692,64,Female,Hyderabad,Telangana,2020-05-23,2020-05-28,129240,14,No
+C0233,Arjun Reddy,arjun.reddy233@outlook.com,+919109751883,66,Male,Kolkata,West Bengal,2020-05-15,2020-08-08,143886,15,Yes
+C0234,Sana Patel,sana.patel234@yahoo.com,+919116669093,43,Male,Kolkata,West Bengal,2023-12-16,2024-10-20,117630,14,Yes
+C0235,Neha Gupta,neha.gupta235@outlook.com,+917052694670,65,Male,Bengaluru,Karnataka,2021-07-03,2022-02-08,-,11,Yes
+C0236,Rahul Singh,rahul.singh236@outlook.com,+919191555199,69,Male,Bengaluru,Karnataka,2019-08-07,2020-07-20,152518,14,No
+C0237,Priya Sharma,priya.sharma237@yahoo.com,+919840641340,61,Male,Delhi,Delhi,2022-02-11,2023-01-13,125583,14,No
+C0238,Karan Sharma,karan.sharma238@yahoo.com,+917710879168,48,Female,Chennai,Tamil Nadu,2020-12-24,2022-01-26,121389,13,No
+C0239,Tara Singh,tara.singh239@gmail.com,+919815181808,46,Female,Delhi,Delhi,2021-11-11,2021-08-03,104010,9,No
+C0240,Aarav Iyer,aarav.iyer240@outlook.com,+917807091637,38,Male,Bangalore,Karnataka,2023-12-26,2024-12-30,106030,12,Yes
+C0241,Vivaan Iyer,vivaan.iyer241@outlook.com,+917651902506,49,Female,KOLKATA,West Bengal,2020-04-10,2020-05-07,112150,10,No
+C0242,Diya Gupta,diya.gupta242@gmail.com,+918365962063,40,Female,Kolkata,West Bengal,2020-02-07,2020-04-21,104318,9,Yes
+C0243,Isha Gupta,isha.gupta243@gmail.com,+919011005862,54,,Bengaluru,Karnataka,2022-04-03,2022-12-29,116359,14,No
+C0244,Rohan Gupta,rohan.gupta244@gmail.com,+918320127309,35,Female,Bengaluru,Karnataka,2022-05-08,2023-03-29,97842,9,No
+C0245,Ananya Mehta,ananya.mehta245@outlook.com,+918507916263,45,Female,Mumbai,Maharashtra,2019-05-01,2020-05-26,111856,N/A,Yes
+C0246,Kabir Reddy,kabir.reddy246@yahoo.com,+918344555051,53,Male,Kolkata,West Bengal,2019-12-19,2020-03-04,113476,12,No
+C0247,Meera Das,meera.das247@gmail.com,+919325595786,46,Male,Mumbai,Maharashtra,2022-06-21,2022-10-30,112329,10,No
+C0248,Arjun Nair,arjun.nair248@outlook.com,+919494097715,420,Male,Kolkata,West Bengal,2022-09-30,2023-02-17,89091,11,Yes
+C0249,Sana Mehta,sana.mehta249@yahoo.com,+917622448811,53,Male,Kolkata,West Bengal,2020-09-25,2021-05-24,107125,11,No
+C0250,Neha Sharma,neha.sharma250@gmail.com,+918956804328,42,Female,Kolkata,West Bengal,2019-05-31,2020-04-11,101697,10,Yes
+C0251,Rahul Sharma,rahul.sharma251@gmail.com,+918701741985,56,Male,Mumbai,Maharashtra,2022-08-14,2023-04-07,9550810,12,No
+C0252,Priya Khan,priya.khan252@gmail.com,+918811664598,36,Male,Mumbai,Maharashtra,2019-09-24,2020-05-14,102778,11,Yes
+C0253,Karan Reddy,karan.reddy253@gmail.com,+919815490783,23,Female,Pune,Maharashtra,2023-10-24,2024-03-31,83514,11,No
+C0254,Tara Sharma,tara.sharma254@yahoo.com,+917609680559,44,Female,Hyderabad,Telangana,2019-09-11,2019-10-14,105966,13,Yes
+C0255,Aarav Khan,aarav.khan255@outlook.com,+919199518743,52,Male,Kolkata,West Bengal,2022-06-01,2023-01-23,116725,10,No
+C0256,Vivaan Gupta,vivaan.gupta256@yahoo.com,+919500217700,68,Female,Delhi,Delhi,2023-08-08,2023-08-15,151906,14,Yes
+C0257,Diya Das,diya.das257@yahoo.com,+919332008537,56,Female,,Maharashtra,2020-03-13,2020-06-19,127542,12,No
+C0258,Isha Iyer,isha.iyer258@outlook.com,+919086653867,21,Female,Chennai,Tamil Nadu,2021-06-12,2021-10-02,57344,5,No
+C0259,Rohan Reddy,rohan.reddy259@outlook.com,+917457643958,40,null,Bengaluru,Karnataka,2023-11-22,2024-03-26,94405,9,Yes
+C0260,Ananya Das,ananya.das260@yahoo.com,+919615896206,70,Female,Chennai,Tamil Nadu,2022-05-13,2023-03-01,135515,15,No
+C0261,Kabir Das,kabir.das261@gmail.com,+918648431020,47,Male,Chennai,Tamil Nadu,2021-10-15,2021-07-07,112665,11,No
+C0262,Meera Mehta,meera.mehta262@outlook.com,+917310530427,44,Female,Chennai,Tamil Nadu,2022-08-02,2023-05-07,105440,9,No
+C0263,Arjun Reddy,arjun.reddy263@yahoo.com,+919393716676,21,Female,Mumbai,Maharashtra,2019-06-02,2019-10-18,61662,6,Yes
+C0264,Sana Singh,sana.singh264@outlook.com,+919721515590,57,Male,Hyderabad,Telangana,2020-07-17,2020-10-24,123370,12,No
+C0265,Neha Patel,neha.patel265@yahoo.com,+918906453937,62,Female,Mumbai,Maharashtra,2019-04-04,2019-11-05,136542,15,Yes
+C0266,Rahul Singh,rahul.singh266@outlook.com,+917692518820,27,Male,Hyderabad,Telangana,2019-01-08,2018-09-30,86741,8,No
+C0267,Priya Iyer,priya.iyer267@yahoo.com,+918316299680,25,Male,Delhi,Delhi,2023-10-08,2023-11-01,71511,8,Yes
+C0268,Karan Sharma,karan.sharma268@outlook.com,+917122903174,49,Female,Mumbai,Maharashtra,2019-02-05,2019-07-11,126936,13,No
+C0269,Tara Gupta,tara.gupta269@outlook.com,+917101096819,35,Female,Hyderabad,Telangana,2021-02-18,2021-10-07,88626,8,Yes
+C0270,Aarav Patel,aarav.patel270@yahoo.com,+919671484719,42,Female,Hyderabad,Telangana,2019-03-23,2019-08-11,96000,9,Yes
+C0271,Vivaan Singh,vivaan.singh271@gmail.com,+919836420266,19,Male,Bengaluru,Karnataka,2019-08-10,2019-10-24,81786,11,Yes
+C0272,Diya Sharma,diya.sharma272@outlook.com,+917804893604,50,Female,Delhi,Delhi,2023-06-11,2023-12-30,121781,11,No
+C0273,Isha Khan,isha.khan273@outlook.com,+917545391722,66,Female,Delhi,Delhi,12 Apr 2020,2020-04-17,135805,14,Yes
+C0274,Rohan Mehta,rohan.mehta274@outlook.com,+919282530986,69,Male,Mumbai,Maharashtra,2020-03-23,2020-08-29,147808,15,Yes
+C0275,Ananya Iyer,ananya.iyer275@gmail.com,+917413688174,47,Male,Hyderabad,Telangana,2020-06-23,2020-09-26,125930,14,Yes
+C0276,Kabir Khan,kabir.khan276@gmail.com,+917687096317,59,Male,Chennai,Tamil Nadu,2019-08-11,2020-05-06,127699,11,Yes
+C0277,Meera Iyer,meera.iyer277@gmail.com,+918214992616,21,Female,Bengaluru,Karnataka,2019-07-02,2019-09-28,87053,10,No
+C0278,Arjun Mehta,arjun.mehta278@yahoo.com,+918808140395,59,Female,Mumbai,Kerala,2023-04-12,2024-02-04,127631,14,Yes
+C0279,Sana Gupta,sana.gupta279@gmail.com,+919539943001,35,null,Bengaluru,Karnataka,2023-04-03,2023-08-06,106891,11,Yes
+C0280,Neha Patel,neha.patel280@outlook.com,+9171378,56,Male,Bengaluru,Karnataka,2022-05-09,2022-12-01,130275,14,Yes
+C0281,Rahul Khan,rahul.khan281@gmail.com,+918464422100,48,Female,Hyderabad,Telangana,2019-12-25,2020-08-13,114053,10,No
+C0282,Priya Reddy,priya.reddy282@yahoo.com,+918979774136,250,Male,Hyderabad,Telangana,2020-05-15,2020-11-11,105519,11,No
+C0283,Karan Khan,karan.khan283@yahoo.com,+919674752635,34,Male,Hyderabad,Telangana,2022-05-18,2022-09-17,89813,8,No
+C0284,Tara Khan,tara.khan284@outlook.com,+919496446840,30,Male,Delhi,Delhi,2019-09-02,2020-02-14,82966,11,No
+C0285,Aarav Khan,aarav.khan285@gmail.com,+917835270075,49,Female,Kolkata,West Bengal,2023-07-13,2024-05-09,98428,9,Yes
+C0286,Vivaan Das,vivaan.das286@gmail.com,+917837038583,63,Female,Hyderabad,Telangana,2022-05-06,2022-06-24,141028,15,No
+C0287,Diya Nair,diya.nair287@gmail.com,+917963732165,38,Female,Pnue,Maharashtra,2022-06-01,2022-08-04,97411,10,No
+C0288,Isha Sharma,isha.sharma288@yahoo.com,+919026601641,55,Male,Chennai,Tamil Nadu,2023-01-30,2023-08-17,120459,12,No
+C0289,Rohan Patel,rohan.patel289@yahoo.com,+917757494550,44,Female,Pune,Maharashtra,2020-04-26,2021-02-25,92506,11,Yes
+C0290,Ananya Khan,ananya.khan290@gmail.com,+917346347892,33,Male,Pune,Maharashtra,2023-02-28,2023-10-24,105936,10,Yes
+C0291,Kabir Singh,kabir.singh291@gmail.com,+917288785139,60,FEMALE,Pune,Maharashtra,2020-08-03,2021-02-13,133034,15,Yes
+C0292,Meera Reddy,meera.reddy292@yahoo.com,+917354373700,41,Female,Kolkata,West Bengal,2021-08-11,2022-04-04,110224,10,No
+C0293,Arjun Gupta,arjun.gupta293@gmail.com,+918540756279,63,Male,Chennai,Tamil Nadu,2021-10-15,2021-10-21,abc,13,Yes
+C0294,Sana Patel,sana.patel294@gmail.com,+917005214534,55,Female,Hyderabad,Telangana,2023-07-11,2023-08-27,115768,13,No
+C0295,Neha Gupta,neha.gupta295@gmail.com,+919097683930,46,Female,Pune,Maharashtra,2021-01-06,2021-01-24,"$ 108,920",11,Yes
+C0296,Rahul Gupta,rahul.gupta296@gmail.com,+918709500827,56,Female,Mumbai,Maharashtra,2019-10-02,2019-11-14,117013,12,No
+C0297,Priya Patel,priya.patel297@gmail.com,+919833263554,53,Female,Chennai,Tamil Nadu,2020-11-28,2021-12-10,122314,13,Yes
+C0298,Karan Iyer,karan.iyer298@outlook.com,+917759605181,42,Male,Kolkata,West Bengal,2019-06-06,2019-08-21,113026,10,Yes
+C0299,Tara Reddy,tara.reddy299@yahoo.com,+918149161515,65,Male,Mumbai,Maharashtra,2021-02-13,2021-04-03,131583,14,Yes
+C0300,Aarav Mehta,aarav.mehta300@outlook.com,+917232420617,48,Female,Mumbai,Maharashtra,2023-02-25,2023-09-21,110672,12,No
+C0301,Vivaan Nair,vivaan.nair301@outlook.com,+917662433450,22,Female,Delhi,Delhi,2022-03-01,2022-08-21,81695,10,No
+C0302,Diya Reddy,diya.reddy302@outlook.com,+917626087149,65,Female,Mumbai,Maharashtra,2023-03-15,2023-12-11,154503,13,Yes
+C0303,Isha Nair,isha.nair303@yahoo.com,+917872434734,69,Male,Hyderabad,Telangana,2021-01-29,2022-02-12,TBD,13,No
+C0304,Rohan Gupta,rohan.gupta304@yahoo.com,+918789078983,27,Female,Mumbai,Maharashtra,2022-04-01,2023-03-04,85591,9,Yes
+C0305,Ananya Iyer,ananya.iyer305@gmail.com,+917146901114,31,Male,Mumbai,Maharashtra,2019-10-08,2019-11-10,null,9,Yes
+C0306,Kabir Sharma,kabir.sharma306@gmail.com,+917359776589,44,Female,Delhi,Delhi,2019-03-24,2020-02-28,114717,11,No
+C0307,Meera Iyer,meera.iyer307@outlook.com,+919707902254,48,Male,,Maharashtra,2023-04-01,2024-03-07,102849,9,Yes
+C0308,Arjun Khan,arjun.khan308@outlook.com,+917925059446,51,Male,Mumbai,Maharashtra,2019-12-15,2020-09-16,118044,N/A,Yes
+C0309,Sana Khan,sana.khan309@yahoo.com,+918751653091,36,Female,Delhi,Delhi,2020-05-16,2020-10-09,92101,10,No
+C0310,Neha Khan,neha.khan310@outlook.com,+919503855124,70,Female,Mumbai,Maharashtra,2019-08-24,2020-06-26,139560,12,Yes
+C0311,Rahul Das,rahul.das311@yahoo.com,+917552527630,30,Male,Bengaluru,Karnataka,2023-11-10,2024-02-22,97525,12,No
+C0312,Priya Iyer,priya.iyer312@outlook.com,+919529478210,47,Female,Kolkata,West Bengal,2023-06-30,2023-11-11,112544,11,No
+C0313,Karan Singh,karan.singh313@yahoo.com,+918005202899,25,Female,Kolkata,West Bengal,2021-09-28,2022-10-01,69542,10,Yes
+C0314,Tara Iyer,tara.iyer314@gmail,+917152905083,38,Male,Hyderabad,Telangana,2022-01-10,2022-10-28,86886,9,No
+C0315,Aarav Reddy,aarav.reddy315@outlook.com,+919227370170,40,Female,Kolkata,West Bengal,2019-02-17,2019-03-04,"$ 90,556",11,Yes
+C0316,Vivaan Sharma,vivaan.sharma316@gmail.com,+918897035423,32,Male,Hyderabad,Telangana,2020-03-11,2020-10-10,95397,10,Yes
+C0317,Diya Das,diya.das317@yahoo.com,+918380538461,63,Male,Kolkata,West Bengal,2019-03-27,2019-12-27,118475,11,No
+C0318,Isha Patel,isha.patel318@gmail.com,+917893216643,51,Female,Hyderabad,Telangana,2021-07-18,2022-03-03,103658,12,No
+C0319,Rohan Khan,rohan.khan319@yahoo.com,+918149880633,19,Female,Kolkata,West Bengal,2022-10-16,2023-06-05,73184,8,No
+C0320,Ananya Singh,ananya.singh320@gmail.com,+919905157859,64,FEMALE,Chennai,Tamil Nadu,2021-01-28,2021-05-14,120628,14,No
+C0321,Kabir Khan,kabir.khan321@outlook.com,+919156989027,39,Female,Chennai,Tamil Nadu,2021-07-16,2021-10-11,100792,10,No
+C0322,Meera Sharma,meera.sharma322@gmail.com,+918803763951,34,male,Chennai,Tamil Nadu,2019-10-15,2020-06-22,83308,9,Yes
+C0323,Arjun Reddy,arjun.reddy323@yahoo.com,+917367670045,70,Female,Bengaluru,Karnataka,2021-10-10,2022-10-28,149849,13,No
+C0324,Sana Das,sana.das324@outlook.com,+917826891049,42,Female,Kolkata,West Bengal,2021-10-04,2021-12-26,97626,11,Yes
+C0325,Neha Singh,neha.singh325@gmail.com,+919765686732,61,Male,Bengaluru,Karnataka,2019-05-04,2019-09-26,129774,15,Yes
+C0326,Rahul Singh,rahul.singh326@gmail.com,+919502646865,38,Male,Mumbai,Maharashtra,2021-08-07,2021-11-02,86071,8,Yes
+C0327,Priya Sharma,priya.sharma327@yahoo.com,+918157256816,-34,Female,Delhi,Delhi,2023-12-16,2024-09-26,92261,12,Yes
+C0328,Karan Nair,not-an-email,+917265734495,51,Female,Mumbai,Maharashtra,2020-08-24,2020-08-26,122165,13,No
+C0329,Tara Reddy,tara.reddy329@yahoo.com,+919767297225,55,Female,Kolkata,West Bengal,2020-07-22,2021-05-15,108128,12,No
+C0330,Aarav Khan,aarav.khan330@yahoo.com,+919981625260,20,Male,Hyderabad,Telangana,2022-08-24,2023-07-15,"$ 88,091",9,Yes
+C0331,Vivaan Mehta,vivaan.mehta331@yahoo.com,+917877183736,45,Male,Kolkata,West Bengal,2020-02-11,2020-05-10,122991,14,Yes
+C0332,Diya Gupta,diya.gupta332@outlook.com,+918162387337,34,Female,Mumbai,Maharashtra,2019-04-14,2019-12-04,103542,11,Yes
+C0333,Isha Singh,isha.singh333@outlook.com,+917390551976,35,Female,Chennai,Tamil Nadu,2021-10-01,2022-11-05,92657,9,Yes
+C0334,Rohan Singh,rohan.singh334@yahoo.com,+917555693614,40,Female,Kolkata,West Bengal,2023-02-03,2023-12-12,93662,10,Yes
+C0335,Ananya Patel,ananya.patel335@gmail.com,+917200217000,65,Male,Mumbai,Maharashtra,2021-05-16,2022-03-20,141984,13,No
+C0336,Kabir Patel,kabir.patel336@yahoo.com,+919965062152,23,Female,Hyderabad,Telangana,2020-06-14,2021-05-22,76762,8,No
+C0337,Meera Patel,meera.patel337@gmail.com,+919726227954,68,Female,-,Telangana,2023-06-13,2024-05-22,137738,15,No
+C0338,Arjun Iyer,arjun.iyer338@yahoo.com,+919544361640,N/A,Female,Mumbai,Maharashtra,2023-11-26,2024-02-04,68502,8,No
+C0339,Sana Khan,not-an-email,+919104825141,26,Male,Mumbai,Maharashtra,2021-06-25,2022-06-15,71995,8,No
+C0340,Neha Nair,neha.nair340@outlook.com,+9178719,35,Male,Kolkata,West Bengal,2021-09-12,2022-09-19,103656,13,Yes
+C0341,Rahul Gupta,rahul.gupta341@outlook.com,+919541629864,21,Male,Kolkata,West Bengal,2023-03-11,2023-04-06,81194,10,No
+C0342,Priya Gupta,priya.gupta342@gmail.com,+917680792820,67,Male,Hyderbad,Telangana,2022-02-06,2022-07-18,147369,15,No
+C0343,Karan Iyer,karan.iyer343@gmail.com,+919265366189,67,Female,Hyderabad,Telangana,2020-08-18,2021-05-30,-,13,No
+C0344,Tara Patel,tara.patel344@outlook.com,+918985448791,59,,Bengaluru,Karnataka,2020-11-27,2021-01-06,127345,14,No
+C0345,Aarav Khan,aarav.khan345@gmail.com,+918015766394,20,female,Mumbai,Maharashtra,2022-12-09,2023-08-21,75116,9,Yes
+C0346,Vivaan Nair,vivaan.nair346@yahoo.com,+918662868663,41,Male,Mumbai,Maharashtra,2019-04-19,2019-09-17,107673,11,No
+C0347,Diya Khan,diya.khan347@yahoo.com,+917698260846,67,Male,Pune,Maharashtra,2021-03-10,2021-05-29,129596,15,Yes
+C0348,Isha Reddy,isha.reddy348@gmail.com,+9175738,58,Female,Pune,Maharashtra,2020-04-16,2020-08-29,124424,13,No
+C0349,Rohan Gupta,rohan.gupta349@yahoo.com,+919081514818,30,Male,Mumbai,Maharashtra,2019-07-17,2019-12-08,4581638,9,No
+C0350,ANANYA KHAN,ananya.khan350@gmail.com,+919913980794,39,Female,Pune,Maharashtra,2020-04-23,2021-05-11,103800,11,No
+C0351,Kabir Reddy,kabir.reddy351@outlook.com,+918614607557,69,Female,Mumbai,Maharashtra,2020-10-06,2021-03-11,129453,13,Yes
+C0352,Meera Gupta,meera.gupta352@outlook.com,+917653549887,60,Male,Chennai,Tamil Nadu,2019-05-27,2020-06-17,117460,11,No
+C0353,Arjun Reddy,arjun.reddy353@yahoo.com,+918057349654,52,Male,Chennai,Tamil Nadu,2022-11-07,2022-12-09,103946,10,No
+C0354,Sana Khan ,sana.khan354@outlook.com,+917338392961,65,Female,Delhi,Delhi,2020-02-10,2020-12-08,140481,12,Yes
+C0355,Neha Reddy,neha.reddy355@yahoo.com,+918561060529,420,Female,Kolkata,West Bengal,2020-06-28,2021-01-16,125902,11,No
+C0356,Rahul Reddy,rahul.reddy356@gmail.com,+917712724572,56,Female,Pune,Maharashtra,2022-10-11,2023-03-20,120170,12,Yes
+C0357,Priya Singh,priya.singh357@gmail.com,+918309143719,65,Male,Pune,Maharashtra,2023-07-27,2024-06-05,8563450,12,No
+C0358,Karan Nair,karan.nair358@outlook.com,+917171085429,26,Female,Hyderabad,Telangana,2019-08-04,2020-07-10,68164,6,Yes
+C0359,Tara Reddy,tara.reddy359@outlook.com,+917442796015,67,Male,Mumbai,Maharashtra,2023-02-06,2023-10-22,137170,15,Yes
+C0360,Aarav Patel,aarav.patel360@yahoo.com,+918134440076,50,Female,Pune,Maharashtra,2019-04-13,2019-12-06,110916,11,Yes
+C0361,Vivaan Singh,vivaan.singh361@outlook.com,+917786503128,34,Male,Mumbai,Maharashtra,20 Dec 2020,2021-03-28,98182,10,No
+C0362,Diya Nair,diya.nair362@yahoo.com,+919888847218,31,Female,Delhi,Delhi,2022-04-07,2022-09-06,87009,9,Yes
+C0363,Isha Patel,isha.patel363@gmail.com,+919836986881,58,Female,Bengaluru,Karnataka,2023-06-20,2024-04-18,142529,15,Yes
+C0364,Rohan Mehta,rohan.mehta364@outlook.com,+918350970883,54,Male,Mumbai,Maharashtra,2020-09-29,2020-12-14,124710,11,No
+C0365,Ananya Khan,ananya.khan365@gmail.com,+917633614936,19,Male,Hyderabad,Telangana,2020-06-16,2020-03-08,69525,7,No
+C0366,Kabir Reddy,kabir.reddy366@outlook.com,+918592820380,40,Female,Bengaluru,Karnataka,2023-01-16,2023-01-29,93417,11,Yes
+C0367,Meera Gupta,meera.gupta367@outlook.com,+917345649695,43,Female,Mumbai,Maharashtra,2019-12-22,2020-10-12,94349,9,No
+C0368,Arjun Iyer,arjun.iyer368@gmail.com,+917836635833,38,Male,Chennai,Tamil Nadu,2019-07-24,2019-09-17,106900,12,Yes
+C0369,Sana Nair,sana.nair369@outlook.com,+917148465215,55,Female,Chennai,Tamil Nadu,2020-01-22,2020-09-02,128387,12,Yes
+C0370,Neha Khan,neha.khan370@yahoo.com,+918498427061,41,Male,Hyderabad,Telangana,2021-12-27,2022-07-07,114812,11,No
+C0371,Rahul Mehta,rahul.mehta371@gmail.com,+917766368572,35,Male,Chennai,Tamil Nadu,2023-07-10,2023-12-26,88780,9,Yes
+C0372,Priya Nair,priya.nair372@outlook.com,+917000169157,51,Female,Hyderabad,Telangana,2020-05-13,2021-02-23,114323,11,No
+C0373,Karan Iyer,karan.iyer373@gmail.com,+919039559745,66,Female,Mumbai,Maharashtra,10 May 2023,2023-10-15,138567,14,No
+C0374,Tara Sharma,tara.sharma374@outlook.com,+919819026846,62,Male,Hyderabad,Telangana,12/03/2022,2022-08-24,119287,12,No
+C0375,Aarav Singh,aarav.singh375@gmail.com,+919036865377,70,Male,Hyderabad,Telangana,11/02/2020,2020-02-12,162743,16,Yes
+C0376,Vivaan Reddy,vivaan.reddy376@outlook.com,+917587183156,23,Male,Bengaluru,Karnataka,2023-06-12,2023-08-19,76119,7,No
+C0377,Diya Das,diya.das377@outlook.com,+917508655004,69,Male,Delhi,Delhi,2020-01-20,2020-02-21,136748,12,Yes
+C0378,Isha Das,isha.das378@gmail.com,+918645055103,null,Male,Delhi,Delhi,2020-10-14,2021-06-22,93457,11,Yes
+C0379,Rohan Sharma,rohan.sharma379@gmail.com,+917996446695,69,Female,Bengaluru,Karnataka,2022-02-09,2023-01-03,"$ 131,510",12,Yes
+C0380,Ananya Iyer,ananya.iyer380@outlook.com,+917658625515,25,Male,Pune,Maharashtra,2023-12-03,2024-03-18,75220,8,Yes
+C0381,Kabir Patel,kabir.patel381@gmail.com,+918216400055,60,Female,Hyderabad,Telangana,2020-05-24,2020-07-24,132461,15,No
+C0382,Meera Khan,meera.khan382@yahoo.com,+918683956352,20,FEMALE,Pune,Maharashtra,2023-11-03,2024-09-14,60541,8,Yes
+C0383,Arjun Mehta,arjun.mehta383@gmail.com,+919923887653,36,Male,Chennai,Tamil Nadu,2022-08-05,2022-08-15,95248,12,No
+C0384,Sana Sharma,sana.sharma384@outlook.com,+917921891361,49,FEMALE,Pune,Maharashtra,2022-01-10,2022-03-30,114658,12,Yes
+C0385,Neha Gupta,neha.gupta385@gmail.com,+917318691052,29,Female,Chennai,Tamil Nadu,2019-05-14,2020-02-18,91834,8,Yes
+C0386,Rahul Reddy,rahul.reddy386@yahoo.com,+918688629821,58,Female,Chennai,Tamil Nadu,2020-10-31,2021-05-11,125931,14,No
+C0387,Priya Das,priya.das387@yahoo.com,+919174393328,62,Male,Hyderabad,Telangana,2020-03-29,2020-08-21,123859,13,Yes
+C0388,Karan Iyer,karan.iyer388@yahoo.com,+919908438241,60,Female,Delhi,Delhi,2021-04-14,2021-10-10,115301,11,No
+C0389,Tara Das,tara.das389@yahoo.com,+919890951185,41,Female,Hyderabad,Telangana,2021-06-11,2022-04-20,102574,12,No
+C0390,Aarav Singh,aarav.singh390@yahoo.com,+918281757612,61,Male,Chennai,Tamil Nadu,2023-10-24,2024-01-19,137595,15,Yes
+C0391,Vivaan Khan,vivaan.khan391@yahoo.com,+919830781671,54,Female,Pnue,Maharashtra,2020-08-15,2020-11-02,124836,13,No
+C0392,Diya Singh,diya.singh392@yahoo.com,+917506573910,61,Female,Pune,Maharashtra,2023-01-28,2024-02-26,116125,13,Yes
+C0393,Isha Mehta,isha.mehta393@yahoo.com,+917712401941,42,Male,Hyderabad,Telangana,2019-01-21,2019-11-15,100557,11,Yes
+C0394,Rohan Mehta,rohan.mehta394@yahoo.com,+917615720475,67,Female,Delhi,Delhi,2021-09-25,2021-09-30,132172,14,No
+C0395,Ananya Nair,ananya.nair395@yahoo.com,+919481314547,41,Female,Hyderabad,Telangana,2022-12-23,2023-04-07,96915,9,No
+C0396,Kabir Patel,kabir.patel396@yahoo.com,+918563512701,54,Male,Pune,Maharashtra,2021-10-13,2022-09-08,TBD,11,Yes
+C0397,MEERA PATEL,meera.patel397@yahoo.com,+919914493902,54,Male,Pune,Maharashtra,2023-08-05,2023-09-06,134230,12,No
+C0398,Arjun Patel,arjun.patel398@yahoo.com,+918575618718,51,Male,Kolkata,West Bengal,2023-01-08,2023-06-22,117607,14,Yes
+C0399,Sana Reddy,sana.reddy399@yahoo.com,+917792824520,42,Male,Delhi,Delhi,2021-11-16,2022-01-11,111076,10,Yes
+C0400,Neha Nair,neha.nair400@yahoo.com,+917798024020,22,Male,Bengaluru,Karnataka,2022-07-13,2022-09-20,58872,6,Yes
+C0114,Sana Patel,sana.patel114@yahoo.com,+918509388782,25,Female,Delhi,Delhi,2020-05-12,2021-05-20,74304,8,Yes
+C0265,Neha Patel,neha.patel265@yahoo.com,+918906453937,62,Female,Mumbai,Maharashtra,2019-04-04,2019-11-05,136542,15,Yes
+C0243,Isha Gupta,isha.gupta243@gmail.com,+919011005862,54,,Bengaluru,Karnataka,2022-04-03,2022-12-29,116359,14,No
+C0198,Isha Mehta,isha.mehta198@yahoo.com,+919702178650,58,Male,Delhi,Delhi,2023-12-27,2024-03-03,131540,13,Yes
+C0389,Tara Das,tara.das389@yahoo.com,+919890951185,41,Female,Hyderabad,Telangana,2021-06-11,2022-04-20,102574,12,No
+C0365,Ananya Khan,ananya.khan365@gmail.com,+917633614936,19,Male,Hyderabad,Telangana,2020-06-16,2020-03-08,69525,7,No
+C0398,Arjun Patel,arjun.patel398@yahoo.com,+918575618718,51,Male,Kolkata,West Bengal,2023-01-08,2023-06-22,117607,14,Yes
+C0363,Isha Patel,isha.patel363@gmail.com,+919836986881,58,Female,Bengaluru,Karnataka,2023-06-20,2024-04-18,142529,15,Yes
+C0396,Kabir Patel,kabir.patel396@yahoo.com,+918563512701,54,Male,Pune,Maharashtra,2021-10-13,2022-09-08,TBD,11,Yes
+C0141,Kabir Iyer,kabir.iyer141@outlook.com,+918809658705,66,Male,Pune,Maharashtra,2021-03-02,2022-02-13,135990,12,No
+C900,Sena Nair,SANA.NAIR129@OUTLOOK.COM,+918577159392,65,Female,Mumbai,Maharashtra,2021-03-07,2022-03-13,141774,16,Yes
+C911,Ishe Reddy,ISHA.REDDY348@GMAIL.COM,+9175738,58,Female,Pune,Maharashtra,2020-04-16,2020-08-29,124424,13,No
+C922,AARAV MEHTA,AARAV.MEHTA60@YAHOO.COM,+917803383885,68,Female,Kolkata,West Bengal,2020-03-07,2020-07-29,152044,14,Yes
+C933,Anenya Iyer,ANANYA.IYER275@GMAIL.COM,+917413688174,47,Male,Hyderabad,Telangana,2020-06-23,2020-09-26,125930,14,Yes
+C944,Sena Iyer,SANA.IYER99@YAHOO.COM,+917626463415,56,Male,Kolkata,West Bengal,2020-05-12,2021-03-28,129752,12,No
+C955,Sena Iyer,SANA.IYER99@YAHOO.COM,+917626463415,56,Male,Kolkata,West Bengal,2020-05-12,2021-03-28,129752,12,No
+C966,Diye Sharma,DIYA.SHARMA137@OUTLOOK.COM,+917578841901,33,Female,Pune,Maharashtra,2023-06-29,2024-05-04,94734,11,No
+C977,Arjun Sherma,ARJUN.SHARMA173@GMAIL.COM,+919711164955,24,Female,Delhi,Delhi,2021-12-26,2022-12-02,59458,6,Yes

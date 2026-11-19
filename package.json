@@ -1,0 +1,31 @@
+{
+  "name": "datafix",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "DataFix \u2013 Autonomous Data Quality and Repair Engine (single-folder React + Node serverless app)",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "test": "node --test test/*.test.mjs",
+    "sample": "node scripts/make-sample.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "xlsx": "^0.18.5",
+    "pdfjs-dist": "^4.10.38",
+    "mammoth": "^1.9.0",
+    "jszip": "^3.10.1",
+    "tesseract.js": "^6.0.1",
+    "parquetjs-lite": "^0.8.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
